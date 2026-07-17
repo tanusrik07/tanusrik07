@@ -1,5 +1,5 @@
 <h1 align="center">
-🕷️ Hi 👋, I'm Angelina
+🕷️ Hi 👋, I'm Tanu
 </h1>
 
 <h3 align="center">
